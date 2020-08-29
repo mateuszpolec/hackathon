@@ -43,6 +43,6 @@ Source code: [Link](https://github.com/HoopDead/hoopdead.github.io/tree/master/p
 
 This project is released under the MIT Licence. See the bundled LICENSE file for details.
 
-### Authour
+### Author
 
 Mateusz Połeć
